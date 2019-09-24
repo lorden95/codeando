@@ -1,0 +1,9 @@
+- Ver los videos 30 al 49, resolver los respectivos ejercicios:
+	https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh
+- Hacer los ejercicios que estan al final de la diapo 2
+- Resolver el contest de vjudge "Class 3"
+
+Opcional:
+- Chequear mis soluciones pasadas (contests: "Class 1" y "Class 2")
+- Resolver ejercicios de hackerrank:
+  https://www.hackerrank.com/domains/algorithms

@@ -1,0 +1,33 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
+
+int main(){
+    int T; cin >> T;
+    
+    string S;
+    string S2("not ");
+    string S3(" not ");
+    string S4(" not");
+    int i,j,len;
+    
+    bool encontre = false;
+    
+    for(j=0; j<T; j++){
+        
+        getline(cin,S,'\n');
+        
+        if(j == 0){
+            continue;
+        }                
+        if(j>=1){
+            
+            for(i=0; i<; i++){
+            
+            }
+        
+       
+    }
+    
+    return 0;
+}

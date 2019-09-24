@@ -1,0 +1,9 @@
+- Ver del video 3 al 10, resolver los ejercicios respectivos y subirlos al drive:
+	https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh
+- Resolver los 2 ejercicios de la ultima diapo
+- Resolver el contest de vjudge "Class 1"
+
+Opcional:
+- Dar una ojeada a la carpeta "Referencias"
+- Ver "Mi vida es un algoritmo":
+	https://www.youtube.com/watch?v=MiaLpkV8JyM

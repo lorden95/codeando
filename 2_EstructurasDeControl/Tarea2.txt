@@ -1,0 +1,8 @@
+- Ver los videos 11 al 29, resolver los respectivos ejercicios y subirlos al drive:
+	https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh
+- Resolver el contest de vjudge "Class 2"
+
+Opcional:
+- Dar una ojeada a la pagina minidosis
+- Ver "Top 10 sitios de torneos y retos para programadores":
+	https://www.youtube.com/watch?v=O-Fpa8kAgF4

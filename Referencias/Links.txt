@@ -1,0 +1,18 @@
+Guia de C++:
+- http://www.cplusplus.com
+- https://en.cppreference.com
+
+Juez en linea de practica:
+- https://vjudge.net/
+
+Cursos de ayuda:
+- https://goo.gl/tctmKM
+- https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh
+- http://www.minidosis.org/#/temas
+
+IDE online:
+- ideone.com
+
+Programacion de Juegos (opcional):
+- https://www.youtube.com/playlist?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
+- https://www.youtube.com/playlist?list=PLpOqH6AE0tNj8W0EGpoGG2CEMDJTt4ihZ
